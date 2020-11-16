@@ -16,7 +16,7 @@ Additional specific questions may arise for this data set, which relates specifi
 To answer these questions, we will use Natural Stat Tricks' data set on the 2020 NHL playoffs (https://www.naturalstattrick.com/games.php?fromseason=20192020&thruseason=20192020&stype=3&sit=all&loc=B&team=All&rate=n). Natural Stat Trick is an independent statistical tool widely used throughout the hockey industry. Data provided in this set is collected for record keeping purposes. The dataset provides information for both teams on every game that was played in the respective bubbles in Toronto, ON and Edmonton, AB to conclude the 2019-2020 NHL season. Its contents provide information for both teams on every game played in this year's playoffs. This information includes TOI (time on ice), Corsi (a measure of shot attempts), Fenwick (unblocked shot attempts), Shots, Shooting Percentage, Save Percentage and PDO (a combination of shooting and save percent) among many others. These measures attempt to show which team "controls" the game, and is therefore more likely, statistically, to win. Some of these measures entails a "fancy stat" which are increasingly used in front-office decisions made for professional hockey teams. 
 
 ## Team Members
-Marcus Decloux - I love playing sports, eating great food, country music, and anything outdoors. 
+Marcus Decloux - I love playing sports, craft beer, country music, and anything outdoors. 
 
 ## References
 
